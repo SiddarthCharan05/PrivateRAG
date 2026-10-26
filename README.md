@@ -1,7 +1,13 @@
 # 🔐 PrivateRAG
 
 ### Privacy-Aware Enterprise AI for Secure Internal Knowledge Retrieval
+## 🖥️ Application Demo
 
+The Streamlit interface demonstrates privacy assessment, role-based access control, authorised retrieval, grounded local LLM responses, and privacy-safe audit logging.
+
+![PrivateRAG HR Demo](screenshots/privaterag-hr-demo.png)
+
+---
 PrivateRAG is a privacy-aware Retrieval-Augmented Generation (RAG) prototype designed to demonstrate how organisations can use generative AI with internal company knowledge while maintaining access controls, personal-data awareness, local inference, and privacy-safe auditability.
 
 The project uses a fictional German company, **NordWerk Solutions GmbH**, and entirely synthetic demonstration data.
