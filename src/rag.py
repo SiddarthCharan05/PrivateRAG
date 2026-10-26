@@ -45,7 +45,7 @@ def retrieve_authorized_context(
 
     results = vector_store.similarity_search(
         question,
-        k=4,
+        k=8,
         filter={
             "department": {
                 "$in": allowed_departments
