@@ -1,0 +1,47 @@
+NORDWERK SOLUTIONS GMBH
+INTERNAL COMPANY HANDBOOK
+
+Document Classification: INTERNAL
+Version: 2.1
+Effective Date: 01 January 2026
+Document Owner: Corporate Operations
+
+1. COMPANY OVERVIEW
+
+NordWerk Solutions GmbH is a fictional German technology company specialising in industrial automation, data analytics and enterprise software solutions.
+
+The company employs approximately 500 employees across offices in Berlin, Hamburg and Munich.
+
+2. WORKING HOURS
+
+The standard working week is 40 hours from Monday to Friday.
+
+Employees may use flexible working hours between 07:00 and 19:00, subject to departmental requirements.
+
+Core collaboration hours are 10:00 to 15:00.
+
+3. REMOTE WORK
+
+Eligible employees may work remotely for up to three days per week.
+
+Remote work must be approved by the employee's line manager.
+
+Employees working remotely must use company-managed devices and the approved corporate VPN when accessing internal systems.
+
+4. ARTIFICIAL INTELLIGENCE USAGE
+
+Employees may use AI tools approved by the IT and Data Protection teams for business purposes.
+
+Confidential company information, personal employee data, customer information, financial information and authentication credentials must not be submitted to unapproved public AI services.
+
+Where sensitive company information is required for an AI-assisted process, employees should use approved internally hosted AI systems.
+
+5. INFORMATION SECURITY
+
+Employees must immediately report suspected data breaches, phishing attempts or loss of company equipment to the IT Security team.
+
+6. DOCUMENT CONFIDENTIALITY
+
+This handbook is classified as INTERNAL and may be accessed by all NordWerk employees.
+
+END OF DOCUMENT

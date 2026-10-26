@@ -1,0 +1,52 @@
+NORDWERK SOLUTIONS GMBH
+AI AND INFORMATION SECURITY POLICY
+
+Document Classification: CONFIDENTIAL
+Version: 1.3
+Effective Date: 15 February 2026
+Document Owner: IT Security
+
+1. PURPOSE
+
+This policy defines security requirements for the use of artificial intelligence systems at NordWerk Solutions GmbH.
+
+2. APPROVED AI ENVIRONMENT
+
+Sensitive company information may only be processed using AI systems approved by NordWerk IT Security.
+
+For confidential workloads, preference must be given to internally hosted or otherwise approved controlled AI environments.
+
+3. PROHIBITED INFORMATION
+
+Employees must not submit the following information to unapproved public AI services:
+
+- Customer personal information
+- Employee personal information
+- Financial account information
+- Passwords or authentication credentials
+- API keys
+- Confidential contracts
+- Proprietary source code classified as confidential
+- Internal security documentation
+
+4. PERSONAL DATA
+
+Personal data must be processed only for an authorised business purpose and according to applicable organisational and data-protection requirements.
+
+Data minimisation should be applied wherever possible.
+
+5. AI OUTPUT
+
+AI-generated output must not automatically be assumed to be correct.
+
+Employees remain responsible for reviewing AI-generated information before it is used for business decisions.
+
+6. INCIDENT REPORTING
+
+Suspected disclosure of confidential information through an AI service must be reported immediately to IT Security.
+
+7. ACCESS
+
+This document is restricted to authorised IT and security personnel.
+
+END OF DOCUMENT

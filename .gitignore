@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local vector database
+chroma_db/
+
+# PrivateRAG audit database
+audit_logs.db
+
+# VS Code settings
+.vscode/
+
+# Streamlit local configuration
+.streamlit/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db

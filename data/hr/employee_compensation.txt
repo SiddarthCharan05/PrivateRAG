@@ -1,0 +1,25 @@
+NORDWERK SOLUTIONS GMBH
+EMPLOYEE COMPENSATION RECORD
+
+Document Classification: STRICTLY CONFIDENTIAL
+Department: Human Resources
+Access Level: HR ONLY
+
+Employee Name: Anna Müller
+Employee ID: NW-1042
+Department: Engineering
+Position: Senior Software Engineer
+
+Annual Gross Salary: EUR 82,000
+
+Performance Bonus Eligibility: Up to 10% of annual gross salary.
+
+Personal Email: anna.mueller@nordwerk.example
+
+This information is confidential employee personal data.
+
+Access is restricted to authorised Human Resources personnel.
+
+Unauthorised disclosure or processing is prohibited.
+
+END OF DOCUMENT
